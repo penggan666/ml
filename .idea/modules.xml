@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../homework/.idea/homework.iml" filepath="$PROJECT_DIR$/../homework/.idea/homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ml.iml" filepath="$PROJECT_DIR$/.idea/ml.iml" />
+      <module fileurl="file://H:/电影/python基础语法/.idea/python基础语法.iml" filepath="H:/电影/python基础语法/.idea/python基础语法.iml" />
+    </modules>
+  </component>
+</project>
